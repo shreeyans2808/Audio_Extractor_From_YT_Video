@@ -1,4 +1,4 @@
-##Youtube Audio Extracter##
+## Youtube Audio Extracter
 
 This particular repository consist of a small project where I eztract the audio and video from youtube videos using `pytube` and convert it to text using deepgram AI. After summarizing the text, I give it as an audio output through ElevenLabs AI.
 
